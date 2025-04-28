@@ -1,0 +1,51 @@
+Opis ogólny:
+Aplikacja służąca do obstawiania meczy, oraz innych sportów. Użytkownik posiada portfel w którym może deponować środki.
+Środki na kocie można wykorzystywać do obstawiania. Na stronie będzie dostępne forum do wymiany spostrzeżeń dotyczących rozgrywek.
+
+
+ETAP 1: Bukmacher
+	*Użytkownik:
+		- posiada unikalny login co najmniej 5 znaków
+		- posiada hasło co najmniej 8 znaków (zawiera:  litery, liczby, znaki specjalne)
+		- użytkownik posiada wewnętrzny portfel:
+			> możliwość wpłacania środków z banku
+			> możliwość wypłacania środków do banku
+
+	*Rozgrywki:
+		- wyniki są pobierane z zewnętrznej strony
+
+	*Obstawianie:
+		- kurs z zewnętrznej strony lub z analizy ile użytkowników wybrała konkretną opcje
+		- użytkownik nie może postawić więcej niż posiada na portfelu
+
+FRONTEND :
+Struktura aplikacji frontendu dla strony do obstawiania meczów
+
+1. Strona główna 
+	- Przegląd dostępnych meczów
+	- Aktualne kursy
+	- Najważniejsze wydarzenia sportowe
+
+2. Strona rejestracji/logowania
+	- Formularz rejestracyjny
+	- Logowanie użytkownika
+
+3. Panel użytkownika
+	- Historia zakładów
+	- Saldo konta
+	- Możliwość wpłat i wypłat
+	- Ustawienia konta
+
+4. Strona zakładów
+	- Szczegółowe informacje o meczu
+	- Dostępne opcje obstawiania
+	- Możliwość postawienia zakładu
+
+5. Strona wyników
+	- Wyniki zakończonych meczów
+	- Aktualizacje w czasie rzeczywistym
+
+
+
+
+
