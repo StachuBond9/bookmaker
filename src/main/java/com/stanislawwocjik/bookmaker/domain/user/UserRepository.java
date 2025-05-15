@@ -1,4 +1,4 @@
-package com.stanislawwocjik.bookmaker.domain;
+package com.stanislawwocjik.bookmaker.domain.user;
 
 
 public interface UserRepository {

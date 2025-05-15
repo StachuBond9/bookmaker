@@ -1,7 +1,7 @@
 package com.stanislawwocjik.bookmaker.infrastructure;
 
-import com.stanislawwocjik.bookmaker.domain.User;
-import com.stanislawwocjik.bookmaker.domain.UserRepository;
+import com.stanislawwocjik.bookmaker.domain.user.User;
+import com.stanislawwocjik.bookmaker.domain.user.UserRepository;
 import org.springframework.stereotype.Repository;
 import java.math.BigDecimal;
 

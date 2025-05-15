@@ -2,7 +2,7 @@ package com.stanislawwocjik.bookmaker.api;
 
 
 import com.stanislawwocjik.bookmaker.api.request.CreateUserRequest;
-import com.stanislawwocjik.bookmaker.domain.UserService;
+import com.stanislawwocjik.bookmaker.domain.user.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

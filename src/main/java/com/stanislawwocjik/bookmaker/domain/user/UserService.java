@@ -1,7 +1,6 @@
-package com.stanislawwocjik.bookmaker.domain;
+package com.stanislawwocjik.bookmaker.domain.user;
 
 import com.stanislawwocjik.bookmaker.api.request.CreateUserRequest;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
